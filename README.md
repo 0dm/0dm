@@ -3,9 +3,6 @@
 ## Welcome to my GitHub profile!
 I'm **0dm** from **Oakville, Ontario** 
 
-I'm a self-taught programmer and high school student that's always willing to learn new things.
-
-
 ## My favourite projects:
 ## [DS3DebugFps](https://github.com/0dm/DS3DebugFps)
 A quality of life mod that unlocks the framerate for the popular game, Dark Souls III. 
