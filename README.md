@@ -14,3 +14,6 @@ An eye dropper for your clipboard.
 A repo containing my discord bot, sauceBot.
 
 [![stats](https://github-readme-stats.vercel.app/api?username=0dm&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+
+[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0dm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
