@@ -5,7 +5,7 @@ I'm **0dm** from **Oakville, Ontario**
 
 ## My favourite projects:
 ## [DS3DebugFps](https://github.com/0dm/DS3DebugFps)
-A quality of life mod that unlocks the framerate for the popular game, Dark Souls III. 
+A quality of life mod that unlocks the framerate for the popular game: Dark Souls III. 
 
 ## [colour_board](https://github.com/0dm/colour_board)
 An eye dropper for your clipboard.
