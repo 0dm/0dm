@@ -18,8 +18,8 @@ I'm **0dm** from **Oakville, Ontario**
   <tr> 
     <td valign="bottom" width="50%">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0dm&layout=compact" alt="Activity" />
-        <img src="https://github-readme-stats.vercel.app/api?username=0dm&show_icons=true" alt="Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0dm&layout=compact&theme=darcula" alt="Activity" />
+        <img src="https://github-readme-stats.vercel.app/api?username=0dm&hide=contribs,prs&theme=darcula&show_icons=true" alt="Languages"/>
       </div>
     </td>
     <td valign="top" width="50%">
