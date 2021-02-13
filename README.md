@@ -1,4 +1,4 @@
-# 👋 Hey! 
+# hey hi 👋 
 
 ## Welcome to my GitHub profile!
 I'm **0dm** from **Oakville, Ontario** 
