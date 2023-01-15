@@ -8,13 +8,13 @@
   <tr> 
     <td valign="bottom" width="50%">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0dm&layout=compact&theme=darcula" alt="Activity" />
+        <img src="https://github-readme-stats-0dm.vercel.app/api/top-langs/?username=0dm&layout=compact&theme=darcula" alt="Activity" />
       </div>
     </td>
     <td valign="bottom" width="50%">
       <div align="center">
         <!-- <img src="https://spotify-github-profile.vercel.app/api/view?uid=12157581118&cover_image=true&theme=default" alt="Spotify" /> -->
-        <img src="https://github-readme-stats.vercel.app/api?username=0dm&hide=contribs,prs&theme=darcula&show_icons=true" alt="Languages"/>
+        <img src="https://github-readme-stats-0dm.vercel.app/api?username=0dm&hide=contribs,prs&theme=darcula&show_icons=true" alt="Languages"/>
       </div>
     </td>
   </tr>
