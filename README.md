@@ -4,18 +4,10 @@
 
 ## Stats
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0dm&count_bg=%2350A411&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false" alt="Hits" />
-<table>
-  <tr> 
-    <td valign="bottom" width="50%">
-      <div align="center">
-        <img src="https://github-readme-stats-0dm.vercel.app/api/top-langs/?username=0dm&layout=compact&theme=darcula" alt="Activity" />
-      </div>
-    </td>
-    <td valign="bottom" width="50%">
-      <div align="center">
-        <!-- <img src="https://spotify-github-profile.vercel.app/api/view?uid=12157581118&cover_image=true&theme=default" alt="Spotify" /> -->
-        <img src="https://github-readme-stats-0dm.vercel.app/api?username=0dm&hide=contribs,prs&theme=darcula&show_icons=true" alt="Languages"/>
-      </div>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/0dm/0dm">
+        <img align="center" src="https://github-readme-stats-0dm.vercel.app/api/top-langs/?username=0dm&layout=compact&theme=darcula&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Activity" />
+  </a>
+&emsp;&emsp;
+  <a href="https://github.com/0dm/0dm">
+        <img align="center" src="https://github-readme-stats-0dm.vercel.app/api?username=0dm&hide=contribs&theme=darcula&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Activity" />
+  </a>
