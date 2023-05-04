@@ -28,7 +28,6 @@ and math 🎓
     </td>
     <td valign="bottom" width="50%">
       <div align="center">
-        <!-- <img src="https://spotify-github-profile.vercel.app/api/view?uid=12157581118&cover_image=true&theme=default" alt="Spotify" /> -->
         <img src="https://github-readme-stats-0dm.vercel.app/api?username=0dm&hide=contribs&theme=darcula&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Languages"/>
       </div>
     </td>
@@ -37,6 +36,10 @@ and math 🎓
 
 </details>
 
+<details>
+  <summary>spotify</summary>
+          <img src="https://spotify-github-profile.vercel.app/api/view?uid=12157581118&cover_image=true&theme=default" alt="Spotify" /> 
+</details>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
