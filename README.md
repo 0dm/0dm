@@ -25,7 +25,7 @@ university of toronto 🥲
 
 cannot exit vim :thumbsdown:
 
-$\LaTeX$ enjoyer <picture><img src="https://user-images.githubusercontent.com/57018940/236125670-139d7f67-d228-4303-b69d-fe5aa8c109a3.png" alt="meme" width="32" height="16" /></picture>  • piazza griefer :sweat_smile: • ai appreciator :robot: • music creator :guitar:
+LaTeX enjoyer <picture><img src="https://user-images.githubusercontent.com/57018940/236125670-139d7f67-d228-4303-b69d-fe5aa8c109a3.png" alt="meme" width="32" height="16" /></picture>  • piazza griefer :sweat_smile: • ai appreciator :robot: • music creator :guitar:
 
 ## my stats
 <a href="https://github.com/0dm"><img align="left" alt="GitHub" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2F0dm&query=count&color=181717&label=GitHub&labelColor=282c34&logo=github&suffix=+followers&cacheSeconds=3600"/></a>
