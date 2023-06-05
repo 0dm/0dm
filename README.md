@@ -66,11 +66,11 @@ LaTeX enjoyer <picture><img src="https://user-images.githubusercontent.com/57018
 <!--START_SECTION:waka-->
 
 ```txt
-Python     12 hrs 1 min    ████████████████████████░   95.41 %
-XML        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-Text       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
-RPMSpec    5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-Diff       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Python     12 hrs 20 mins  ████████████████████████░   96.03 %
+XML        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+Text       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+RPMSpec    5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+TeX        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->
