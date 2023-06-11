@@ -66,11 +66,11 @@ LaTeX enjoyer <picture><img src="https://user-images.githubusercontent.com/57018
 <!--START_SECTION:waka-->
 
 ```txt
-Python   7 hrs 9 mins    ████████████████████████▓   99.05 %
-Other    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-Cython   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-Bash     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Python   5 hrs 36 mins   ████████████████████████▓   98.65 %
+Other    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Cython   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Bash     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
