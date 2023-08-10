@@ -66,11 +66,11 @@ LaTeX enjoyer <picture><img src="https://user-images.githubusercontent.com/57018
 <!--START_SECTION:waka-->
 
 ```txt
-Python         7 hrs 43 mins   █████████████████░░░░░░░░   68.53 %
-TeX            2 hrs 27 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.72 %
-TOML           30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
-YAML           26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
-TypeScript     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Python         6 hrs 16 mins   █████████████████▒░░░░░░░   69.03 %
+TeX            1 hr 40 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.37 %
+TOML           33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
+YAML           26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
+TypeScript     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
 ```
 
 <!--END_SECTION:waka-->
