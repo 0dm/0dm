@@ -66,11 +66,11 @@ LaTeX enjoyer <picture><img src="https://user-images.githubusercontent.com/57018
 <!--START_SECTION:waka-->
 
 ```txt
-Python       6 hrs 46 mins   ███████████████░░░░░░░░░░   59.79 %
-JavaScript   2 hrs 44 mins   ██████░░░░░░░░░░░░░░░░░░░   24.14 %
-Bash         37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
-JSON         26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
-Text         24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+Python       6 hrs 18 mins   ███████████████▒░░░░░░░░░   61.88 %
+JavaScript   2 hrs 15 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.20 %
+Text         24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+TOML         21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+JSON         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
 ```
 
 <!--END_SECTION:waka-->
