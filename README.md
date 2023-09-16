@@ -66,8 +66,7 @@ LaTeX enjoyer <picture><img src="https://user-images.githubusercontent.com/57018
 <!--START_SECTION:waka-->
 
 ```txt
-TeX        46 mins         █████████████████████████   99.64 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+TeX   46 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
