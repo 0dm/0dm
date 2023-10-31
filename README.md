@@ -66,11 +66,7 @@ LaTeX enjoyer <picture><img src="https://user-images.githubusercontent.com/57018
 <!--START_SECTION:waka-->
 
 ```txt
-TeX          24 mins         ███████████████░░░░░░░░░░   60.11 %
-TypeScript   11 mins         ███████▒░░░░░░░░░░░░░░░░░   29.04 %
-JavaScript   4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+TeX   24 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
