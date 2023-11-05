@@ -66,7 +66,9 @@ LaTeX enjoyer <picture><img src="https://user-images.githubusercontent.com/57018
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python     34 mins         ██████████████████▒░░░░░░   73.22 %
+Markdown   7 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.61 %
+Assembly   4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.17 %
 ```
 
 <!--END_SECTION:waka-->
