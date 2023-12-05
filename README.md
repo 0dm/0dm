@@ -66,9 +66,8 @@ LaTeX enjoyer <picture><img src="https://user-images.githubusercontent.com/57018
 <!--START_SECTION:waka-->
 
 ```txt
-TeX      4 hrs 18 mins   ███████████████████▒░░░░░   77.48 %
-Python   1 hr 12 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.79 %
-Other    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+TeX      6 hrs           █████████████████████▓░░░   87.21 %
+Python   52 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
 ```
 
 <!--END_SECTION:waka-->
