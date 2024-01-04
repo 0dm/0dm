@@ -66,8 +66,10 @@ LaTeX enjoyer <picture><img src="https://user-images.githubusercontent.com/57018
 <!--START_SECTION:waka-->
 
 ```txt
-Python   2 hrs 2 mins    █████████████████████████   99.95 %
-TOML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Python         2 hrs 2 mins    ███████████████████████▓░   94.12 %
+OpenEdge ABL   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+TeX            2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+TOML           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
