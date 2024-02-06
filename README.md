@@ -40,14 +40,14 @@ LaTeX enjoyer <picture><img src="https://user-images.githubusercontent.com/57018
     <td valign="bottom" width="50%">
       <div align="center">
         <picture>
-        <img src="https://github-readme-stats-0dm.vercel.app/api/top-langs/?username=0dm&layout=compact&theme=darcula&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Activity" />
+        <img src="https://github-readme-stats-0dm.vercel.app/api/top-langs/?username=0dm&layout=compact&theme=darcula&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=HTML,CSS&exclude_repo=sandbox,CE," alt="Languages" />
         </picture>
       </div>
     </td>
     <td valign="bottom" width="50%">
       <div align="center">
         <picture>
-        <img src="https://github-readme-stats-0dm.vercel.app/api?username=0dm&hide=contribs&theme=darcula&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Languages"/>
+        <img src="https://github-readme-stats-0dm.vercel.app/api?username=0dm&hide=contribs&theme=darcula&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Activity"/>
         </picture>
       </div>
     </td>
