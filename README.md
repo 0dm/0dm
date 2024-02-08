@@ -66,11 +66,11 @@ LaTeX enjoyer <picture><img src="https://user-images.githubusercontent.com/57018
 <!--START_SECTION:waka-->
 
 ```txt
-TeX          4 hrs 14 mins   ████████▓░░░░░░░░░░░░░░░░   34.94 %
-Dart         2 hrs 24 mins   █████░░░░░░░░░░░░░░░░░░░░   19.77 %
-Java         1 hr 54 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.68 %
-Text         1 hr 4 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
-Python       58 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
+TeX          4 hrs 14 mins   ████████████░░░░░░░░░░░░░   48.35 %
+Dart         2 hrs 56 mins   ████████▒░░░░░░░░░░░░░░░░   33.50 %
+YAML         51 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 %
+Bash         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+Python       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
 ```
 
 <!--END_SECTION:waka-->
