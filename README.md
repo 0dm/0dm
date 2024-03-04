@@ -66,7 +66,11 @@ LaTeX enjoyer <picture><img src="https://user-images.githubusercontent.com/57018
 <!--START_SECTION:waka-->
 
 ```txt
-Dart   1 hr 15 mins    █████████████████████████   100.00 %
+Dart       1 hr 15 mins    ████████████▒░░░░░░░░░░░░   49.62 %
+Python     57 mins         █████████▒░░░░░░░░░░░░░░░   37.77 %
+Markdown   9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+C          7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
+Makefile   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
 ```
 
 <!--END_SECTION:waka-->
