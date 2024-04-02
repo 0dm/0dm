@@ -66,11 +66,11 @@ $\LaTeX$ enjoyer <picture><img src="https://user-images.githubusercontent.com/57
 <!--START_SECTION:waka-->
 
 ```txt
-Dart        2 hrs 29 mins   ███████████████▓░░░░░░░░░   63.23 %
-Python      38 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.51 %
-Bash        18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
-XML         13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
-Other       7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+Dart        1 hr 45 mins    █████████████████░░░░░░░░   67.73 %
+Python      21 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.05 %
+XML         13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
+Other       7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+CocoaPods   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
 ```
 
 <!--END_SECTION:waka-->
