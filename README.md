@@ -66,9 +66,7 @@ $\LaTeX$ enjoyer <picture><img src="https://user-images.githubusercontent.com/57
 <!--START_SECTION:waka-->
 
 ```txt
-Dart    17 mins         █████████████▓░░░░░░░░░░░   54.29 %
-XML     12 mins         █████████▓░░░░░░░░░░░░░░░   39.33 %
-Other   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
+Dart   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
