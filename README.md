@@ -66,9 +66,9 @@ $\LaTeX$ enjoyer <picture><img src="https://user-images.githubusercontent.com/57
 <!--START_SECTION:waka-->
 
 ```txt
-Dart     1 hr 13 mins    ████████████▒░░░░░░░░░░░░   48.97 %
-TeX      1 hr 11 mins    ████████████░░░░░░░░░░░░░   47.66 %
-Python   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+Dart     1 hr 24 mins    █████████████░░░░░░░░░░░░   51.36 %
+TeX      1 hr 11 mins    ██████████▓░░░░░░░░░░░░░░   43.23 %
+Python   8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
 ```
 
 <!--END_SECTION:waka-->
