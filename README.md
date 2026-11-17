@@ -14,12 +14,9 @@ welcome to my github <picture><img src="https://raw.githubusercontent.com/simple
 
 ## About Me
 
+kernel mode driver @ amd
 
-computer 💻
-
-and math 🎓
-
-university of toronto 🥲
+university of toronto 🎓
 
 /&emsp;/&emsp;/&emsp;/&emsp;/&emsp;/&emsp;/&emsp;/&emsp;/&emsp;/&emsp;
 
