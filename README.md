@@ -14,7 +14,7 @@ welcome to my github <picture><img src="https://raw.githubusercontent.com/simple
 
 ## About Me
 
-kernel mode driver @ amd <img src="https://github.com/user-attachments/assets/067b100c-0049-464e-adc6-8e718dbf0019" alt="arrow" width="16" height="16" /></picture> 
+windows software platform group at amd <img src="https://github.com/user-attachments/assets/067b100c-0049-464e-adc6-8e718dbf0019" alt="arrow" width="16" height="16" /></picture> 
 
 university of toronto 🎓
 
